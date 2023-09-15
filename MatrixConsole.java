@@ -2,7 +2,7 @@ import java.io.Console;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class AdditionOfMatrices {
+public class MatrixConsole {
 
     public static void main(String[] args) {
         System.out.println("Hey");
